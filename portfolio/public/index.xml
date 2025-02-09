@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HW 1 Site</title><link>https://example.org/</link><description>Recent content on HW 1 Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2025 16:35:51 -0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://example.org/about/</link><pubDate>Sun, 09 Feb 2025 16:35:51 -0500</pubDate><guid>https://example.org/about/</guid><description>&lt;p>Hi, I&amp;rsquo;m Megan.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HW 1 Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on HW 1 Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
