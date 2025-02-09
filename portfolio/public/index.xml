@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HW 1 Site</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on HW 1 Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 16:35:51 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 09 Feb 2025 16:35:51 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I&amp;rsquo;m Megan.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
